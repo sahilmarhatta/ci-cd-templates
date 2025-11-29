@@ -30,7 +30,7 @@ We’ve built a set of **plug-and-play CI/CD templates** that cover the most com
 1. **Clone this repository**  
 2. Navigate to the template you need  
 3. Copy the configuration into your CI/CD setup (Jenkins, GitHub Actions, GitLab CI, etc.)  
-4. Adjust environment-specific variables with minimal rework  
+4. Adjust environment-specific variables and other required changes with minimal rework  
 
 ---
 
