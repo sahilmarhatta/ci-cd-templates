@@ -1,5 +1,5 @@
 🚀 CI/CD Template Factory
-No more chaos. No more duplication. Just clean, scalable pipelines.
+No more chaos. No more duplication. Just clean, scalable pipelines..
 
 📌 What’s Inside
 We’ve built a set of plug-and-play CI/CD templates that cover the most common stacks:
